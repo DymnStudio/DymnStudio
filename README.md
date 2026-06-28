@@ -1,16 +1,35 @@
-## Hi there 👋
+# Dymn Studio
 
-<!--
-**DymnStudio/DymnStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building modern Android experiences.**
 
-Here are some ideas to get you started:
+Clean UI. Practical features. Minimal design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Products
+
+### 📱 Dymn Launcher
+Minimal iOS-inspired Android launcher focused on speed, simplicity and personal customization.
+
+### 🟦 Dymn METRO
+Metro-style Android launcher with a modern interface and iOS-inspired settings.
+
+### 👶 Dymn Baby
+Baby activity tracker for feeding, sleep, diapers and daily routines.
+
+### 📝 Dymn Notes
+Simple and lightweight notes app with a clean interface.
+
+---
+
+## Focus
+
+- Android applications
+- Launcher experiences
+- Clean UI / UX
+- Material-inspired design
+- AI-assisted development
+
+---
+
+**Always creating something new.**
