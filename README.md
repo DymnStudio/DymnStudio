@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Dymn Studio Banner">
+</p>
+
 # Dymn Studio
 
 **Building modern Android experiences.**
