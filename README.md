@@ -2,15 +2,17 @@
   <img src="assets/banner.png" alt="Dymn Studio Banner">
 </p>
 
-# Dymn Studio
+## 👋 Welcome
 
-**Building modern Android experiences.**
-
-Clean UI. Practical features. Minimal design.
-
+Building modern Android applications with a focus on clean UI, performance and practical user experience.
 ---
 
-## Products
+![Android](https://img.shields.io/badge/Android-Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-2196F3?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github)
+
+## 🚀 Featured Projects
 
 ### 📱 Dymn Launcher
 Minimal iOS-inspired Android launcher focused on speed, simplicity and personal customization.
@@ -26,14 +28,22 @@ Simple and lightweight notes app with a clean interface.
 
 ---
 
-## Focus
+🎯 Expertise
 
-- Android applications
-- Launcher experiences
-- Clean UI / UX
-- Material-inspired design
-- AI-assisted development
+Android Application Development
+Kotlin & Jetpack
+Material Design 3
+Launcher Experiences
+Clean UI / UX
+Performance Optimization
 
 ---
 
 **Always creating something new.**
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DymnStudio&show_icons=true&theme=github_dark&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DymnStudio&layout=compact&theme=github_dark&hide_border=true" height="170">
+</p>
