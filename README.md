@@ -28,22 +28,22 @@ Simple and lightweight notes app with a clean interface.
 
 ---
 
-🎯 Expertise
+## 🎯 Expertise
 
-Android Application Development
-Kotlin & Jetpack
-Material Design 3
-Launcher Experiences
-Clean UI / UX
-Performance Optimization
+- Android Application Development
+- Kotlin & Jetpack
+- Material Design 3
+- Launcher Experiences
+- Clean UI / UX
+- Performance Optimization
 
 ---
 
-**Always creating something new.**
+**Building Android apps that people enjoy using.**
 
-## 📊 GitHub Stats
+## 💼 Currently Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DymnStudio&show_icons=true&theme=github_dark&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DymnStudio&layout=compact&theme=github_dark&hide_border=true" height="170">
-</p>
+- 📱 Android applications
+- 🚀 Open source projects
+- 🎨 Modern Material Design interfaces
+- 💡 New ideas for Dymn Studio
