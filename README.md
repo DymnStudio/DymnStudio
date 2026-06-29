@@ -15,16 +15,34 @@ Building modern Android applications with a focus on clean UI, performance and p
 ## 🚀 Featured Projects
 
 ### 📱 Dymn Launcher
+
 Minimal iOS-inspired Android launcher focused on speed, simplicity and personal customization.
 
-### 🟦 Dymn METRO
-Metro-style Android launcher with a modern interface and iOS-inspired settings.
+[📂 Repository](https://github.com/DymnStudio/Dymn-Launcher)
 
-### 👶 Dymn Baby
-Baby activity tracker for feeding, sleep, diapers and daily routines.
+---
 
 ### 📝 Dymn Notes
+
 Simple and lightweight notes app with a clean interface.
+
+[📂 Repository](https://github.com/DymnStudio/Dymn-Notes)
+
+---
+
+### 👶 Dymn Baby
+
+Baby activity tracker for feeding, sleep, diapers and daily routines.
+
+[📂 Repository](https://github.com/DymnStudio/Dymn-Baby)
+
+---
+
+### 🚇 Dymn METRO
+
+Metro-style Android launcher with a modern interface and iOS-inspired settings.
+
+[📂 Repository](https://github.com/DymnStudio/Dymn-METRO)
 
 ---
 
